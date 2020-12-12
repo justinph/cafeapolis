@@ -1,0 +1,312 @@
+/*
+Theme Name: Cafeapolis Baby
+Theme URI: http://fiddlyio.com/
+Description: Theme for Adrienne's blog, with the help of Justin.
+Version: 0.1a
+Author: Justin Heideman
+
+*/
+
+body
+{
+	background-image: url(images/bg_template.gif);
+	background-repeat: repeat;
+	background-position: center top;
+	margin: 0px;
+	padding: 0px;
+	font-family: helvetica, arial, sans-serif;
+	font-size: 12px;
+}
+
+
+
+h1, h2, h3, h4, h5, h6{
+	font-family: Georgia, times, serif;
+	color: #ff7007;
+	font-weight: 100;
+}
+
+a img { border: none; }
+
+
+ol{
+	line-height: 1.5em;
+	margin-left: 0px;
+	list-style-position: inside;
+}
+
+ol li{
+	margin-left: 0px;
+}
+
+
+#topHeader
+{
+	background-image: url(images/top_full_scene.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	width: 100%;
+	height: 421px;
+	overflow: hidden;
+}
+
+
+#topNavCont{
+	margin: 360px auto 0px auto;
+	width: 660px;
+}
+#topNavLeft{
+	height: 20px;
+	width: 500px;
+	float: left;
+}
+
+
+#topNavRight{
+	height: 20px;
+	width: 60px;
+	float: right;
+}
+
+.topNav a{
+	color: #907625;
+	text-decoration: none;
+	padding-right: 10px;
+	font-size: 1.4em;
+}
+
+.topNav a:hover{
+	color: #ff7007;
+}
+
+#storyNav{
+	margin-top: 20px;
+	width: 660px;
+	text-align: center;
+}
+
+#storyNav a{
+	color: #907625;
+	text-decoration: none;
+	padding: 1px;
+}
+
+#storyNav a:hover{
+	color:#fff;
+	background-color: #907625;
+}
+
+
+
+#blogContent{
+	width: 660px;
+	margin: 0px auto 0px auto;
+}
+
+#blogContent h1, #blogContent h1 a{
+	font-family: Georgia, times, serif;
+	color: #ff7007;
+	font-weight: 100;
+	font-size: 1.7em;
+	margin-bottom: 0px;
+	text-decoration: none;
+}
+
+#blogContent h1 a:hover{
+	color: #fff;
+	background-color: #ff7007;
+	padding-right: 2px;
+}
+.blogPost{
+ margin: 0px 30px 20px 30px;
+}
+
+.blogPost h3{
+	font-size: 1.5em;
+	margin-bottom: 0px;
+}
+
+.commentBar{
+	width: 180px;
+	float: right; 
+	margin-left: 10px;
+	margin-bottom: 10px;
+	margin-top: 15px;
+	/*border: 1px solid green;*/
+}
+
+.commentBar p{
+	font-weight: bold;
+	font-size: .9em;
+	color: #666;
+	line-height: 1.3em;
+}
+
+.commentBar h3{
+	color: #87b5de;
+	font-size: 1em;
+	text-transform: uppercase;
+	margin-bottom: -5px;
+}
+
+.commentBy{
+	font-style: italic;
+	color: #cc9933;
+}
+
+
+.postText{
+	width: 460px;
+	float: left;
+	/*border: 1px solid red;*/
+}
+
+
+.fullPostText{
+}
+
+.postMeta{
+	color: #663300;
+	font-size: .8em;
+	margin-top: 0px;
+}
+
+
+p{
+	line-height: 1.5em;
+}
+
+p a{
+	color: #907625;
+	text-decoration: none;
+	padding: 1px;
+}
+
+p a:hover{
+	color:#fff;
+	background-color: #907625;
+}
+
+.readMore a{
+	color: #663300;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: .9em;
+}
+
+.readMore a:hover{
+	background-color: #663300;
+	color: #fff;
+}
+
+.copyHolder{
+	width: 606px;
+	margin: 10px auto 10px auto;
+	border-top: 1px solid #CCC;
+}
+p.copy{
+	color: #aaa;
+	font-family: Georgia, Times, serif;
+	font-size: .9em;
+	text-align: center;
+}
+
+.divider{
+	border-top: 1px solid #CCC;
+	padding: 10px 30px 10px 30px;
+
+}
+
+
+/* review meta info field */
+
+table.reviewMeta{
+	border: 1px solid #eef2f8;
+	padding: 0px 1px 0px 1px;
+}
+
+table.reviewMeta th{
+	padding: 10px 0px 8px 0px;
+	background-color: #e4e9f2;
+	font-family: Georgia, times, serif;
+	color: #ff7007;
+	font-weight: 100;
+	font-size: 1.2em;
+	border-bottom: 1px solid #fff;
+	border-top: 2px solid #fff;
+}
+
+table.reviewMeta td{
+	padding: 4px;
+	font-size: .9em;
+	border-bottom: 1px solid #fff;
+	line-height: 1.2em;
+}
+
+table.reviewMeta tr{
+	padding-bottom: 10px;
+}
+
+table.reviewMeta td.rmCol1{
+	background-color: #eef2f8;
+	color: #ff7007;
+	font-weight: bold;
+}
+
+table.reviewMeta td a{
+	color: #ff7007;
+	text-decoration: none;
+}
+
+table.reviewMeta td a:hover{
+	color: #fff;
+	background-color: #ff7007;
+	text-decoration: none;
+}
+
+
+
+
+
+
+
+
+/* comments page */
+#commentsList{
+	width: 280px;
+	float: left;
+}
+
+#commentsForm{
+	width: 280px;
+	float: right;
+	border-left: 1px solid #CCC;
+	padding-left: 25px;
+}
+
+#commentlist, #commentlist ul, #commentlist ul li
+{
+	list-style: none;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+
+textarea#comment{
+	width: 280px;
+}
+
+img.alignright{
+	float: right;
+	margin: 10px 0 10px 10px;
+}
+
+img.alignleft{
+	float: right;
+	margin: 10px 10px 10px 0;
+}
+
+
+/* include the shadows style */
+@import url(shadow.css);

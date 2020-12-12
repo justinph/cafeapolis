@@ -1,0 +1,221 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>  Winter Cities Part I - Cafeapolis</title>
+	<meta name="generator" content="BBEdit 8.5" />
+	<meta name="generator" content="WordPress 5.0.11" />
+	<meta name="keywords" content="coffee minneapolis coffeeshops community twin cities" />
+	<meta name="description" content="Coffee and community in Minneapolis." />
+	<meta name="verify-v1" content="V0OxyuL2TgENqkxEq4qXOjoE/UwIDVgxtRJkPScgMi4=" />
+	<style type="text/css" title="text/css">
+		@import url( https://cafeapolis.com/wp-content/themes/cafeapolis/style.css );
+		@import url( https://cafeapolis.com/wp-content/themes/cafeapolis/shadow.css );
+		
+	</style>
+	
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		_uacct = "UA-611142-2";
+		urchinTracker();
+	</script>
+	
+	
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://cafeapolis.com/feed/" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="https://cafeapolis.com/feed/rss/" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="https://cafeapolis.com/feed/atom/" />
+		<link rel="alternate" type="application/atom+xml" title="Comments RSS 2.0" href="https://cafeapolis.com/comments/feed/" />
+	
+	<link rel="pingback" href="https://cafeapolis.com/xmlrpc.php" />
+    	<link rel='archives' title='December 2016' href='https://cafeapolis.com/2016/12/' />
+	<link rel='archives' title='August 2016' href='https://cafeapolis.com/2016/08/' />
+	<link rel='archives' title='August 2013' href='https://cafeapolis.com/2013/08/' />
+	<link rel='archives' title='May 2013' href='https://cafeapolis.com/2013/05/' />
+	<link rel='archives' title='January 2013' href='https://cafeapolis.com/2013/01/' />
+	<link rel='archives' title='December 2012' href='https://cafeapolis.com/2012/12/' />
+	<link rel='archives' title='November 2012' href='https://cafeapolis.com/2012/11/' />
+	<link rel='archives' title='June 2011' href='https://cafeapolis.com/2011/06/' />
+	<link rel='archives' title='January 2009' href='https://cafeapolis.com/2009/01/' />
+	<link rel='archives' title='August 2008' href='https://cafeapolis.com/2008/08/' />
+	<link rel='archives' title='May 2008' href='https://cafeapolis.com/2008/05/' />
+	<link rel='archives' title='February 2008' href='https://cafeapolis.com/2008/02/' />
+	<link rel='archives' title='January 2008' href='https://cafeapolis.com/2008/01/' />
+	<link rel='archives' title='September 2007' href='https://cafeapolis.com/2007/09/' />
+	<link rel='archives' title='August 2007' href='https://cafeapolis.com/2007/08/' />
+	<link rel='archives' title='June 2007' href='https://cafeapolis.com/2007/06/' />
+	<link rel='archives' title='May 2007' href='https://cafeapolis.com/2007/05/' />
+	<link rel='archives' title='April 2007' href='https://cafeapolis.com/2007/04/' />
+	<link rel='archives' title='March 2007' href='https://cafeapolis.com/2007/03/' />
+	<link rel='archives' title='February 2007' href='https://cafeapolis.com/2007/02/' />
+	<link rel='archives' title='January 2007' href='https://cafeapolis.com/2007/01/' />
+	<link rel='archives' title='December 2006' href='https://cafeapolis.com/2006/12/' />
+	<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Cafeapolis &raquo; Winter Cities Part I Comments Feed" href="https://cafeapolis.com/2012/winter-cities-part-i/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cafeapolis.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.11"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css'  href='http://cafeapolis.com/wp-includes/css/dist/block-library/style.min.css?ver=5.0.11' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://cafeapolis.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cafeapolis.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cafeapolis.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='A New Focus' href='https://cafeapolis.com/2012/a-new-focus/' />
+<link rel='next' title='Corner Coffee' href='https://cafeapolis.com/2012/corner-coffee/' />
+<meta name="generator" content="WordPress 5.0.11" />
+<link rel="canonical" href="https://cafeapolis.com/2012/winter-cities-part-i/" />
+<link rel='shortlink' href='https://cafeapolis.com/?p=133' />
+<link rel="alternate" type="application/json+oembed" href="https://cafeapolis.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcafeapolis.com%2F2012%2Fwinter-cities-part-i%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://cafeapolis.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcafeapolis.com%2F2012%2Fwinter-cities-part-i%2F&#038;format=xml" />
+	
+
+</head>
+<body>
+
+	<div id="topHeader">
+		<h1 style="display: none;">Cafeaplis &mdash; coffe + community @ minneapolis</h1>
+		<div id="topNavCont">
+		<div id="topNavLeft" class="topNav">
+			<a href="/">home</a>
+			<a href="/about/">about</a>
+			<!-- <a href="/archives/">archives</a> -->
+			<a href="/contact/">contact</a>
+		</div>
+		<div id="topNavRight" class="topNav">
+			<a href="/wp-admin/">log in</a>
+		</div>
+		</div>
+	</div>
+	
+	
+	<div id="blogContent">
+
+
+
+<div class="blogPost" id="post-133">
+
+	<!-- <h2>November 7, 2012</h2> -->
+		
+	<h1><a href="https://cafeapolis.com/2012/winter-cities-part-i/" rel="bookmark">Winter Cities Part I</a></h1>
+	
+	<div class="fullPostText">
+			<p class="postMeta">Posted by Adrienne on November 7, 2012		
+		</p>
+		
+			
+			<p>&nbsp;</p>
+<p>I&#8217;m immersing myself in winter right now. Research for the second phase of the park project (mentioned in the last <a href="http://cafeapolis.com/2012/a-new-focus/">post</a>) is exploring how the neighborhood can embrace winter in the park, activating it year-round to keep out crime. I&#8217;ve been looking at how other cities in winter climates embrace &#8211; or at least cope with &#8211; the season of cold and dark and snow. Do they design buildings/streets/open space differently? How do they plan their public transit or bike infrastructure? What cultural practices are a response to winter&#8217;s negative aspects? How do they celebrate the positive aspects?</p>
+<p>While reading about various towns in northern climates (and keeping Google maps handy to look up where they are) I came across some beautiful images of Kiruna, <a href="https://maps.google.com/maps?q=Kiruna,+Sweden&amp;hl=en&amp;ll=61.773123,29.53125&amp;spn=24.471725,77.255859&amp;sll=44.970697,-93.261478&amp;sspn=0.281266,0.603561&amp;oq=kirun&amp;hnear=Kiruna,+Sweden&amp;t=m&amp;z=4">the northern-most city in Sweden</a>. Kiruna is the epitome of a winter city. North of the Arctic Circle, the average daily high in January is 12 °F. To give you an idea of how cold that is, the average daily high in January in the Twin Cities is 21.9 °F.</p>
+<p>Brr.</p>
+<p>Kiruna certainly knows how to design for winter. Their church, or <em>kyrka</em>, has long sloping roofs that are not only lovely, but also handle large amounts of snow quite easily.</p>
+<div style="width: 410px" class="wp-caption aligncenter"><a title="Kiruna kyrka by MontanNito, on Flickr" href="http://www.flickr.com/photos/montannito/3330614155/"><img src="http://farm4.staticflickr.com/3619/3330614155_7ab986ea50.jpg" alt="Kiruna kyrka" width="400" height="298" /></a><p class="wp-caption-text"><em>Kiruna kyrka by MontanNito, flickr</em></p></div>
+<p>&nbsp;</p>
+<p>Months and months of snow and ice mean a landscape of white and grey. While lovely in itself, color becomes an important factor. The warm colors used on the buildings in the city center of Kiruna become even more vibrant in winter.</p>
+<p>&nbsp;</p>
+<div style="width: 410px" class="wp-caption aligncenter"><a title="Kiruna: Town centre by jacobchristensen, on Flickr" href="http://www.flickr.com/photos/jacobchristensen/2329043671/"><img src="http://farm3.staticflickr.com/2411/2329043671_0d9909ed63.jpg" alt="Kiruna town centre" width="400" height="300" /></a><p class="wp-caption-text"><em>Kiruna town centre by Jacob Christensen, flickr</em></p></div>
+<div style="width: 410px" class="wp-caption aligncenter"><a title="Colours of Kiruna by abaransk, on Flickr" href="http://www.flickr.com/photos/abaransk/3782470869/"><img src="http://farm3.staticflickr.com/2665/3782470869_f598bae58a.jpg" alt="Colours of Kiruna" width="400" height="266" /></a><p class="wp-caption-text"><em>Colours of Kiruna by Andriy Baranskyy, flickr</em></p></div>
+<div style="width: 410px" class="wp-caption aligncenter"><a title="I see a red door and I want to paint it blue by arvidr, on Flickr" href="http://www.flickr.com/photos/arru/5975294751/"><img src="http://farm7.staticflickr.com/6008/5975294751_8fbff1098c.jpg" alt="Doors" width="400" height="300" /></a><p class="wp-caption-text"><em>Doors in Kiruna by Arvid Rudling, flickr</em></p></div>
+<p>&nbsp;</p>
+<p>Even Stockholm, at the southern end of Sweden, whose winters are not nearly as ruthless, emphasizes color in the city.</p>
+<p>&nbsp;</p>
+<div style="width: 410px" class="wp-caption aligncenter"><a title="Stockholm streetview by rdewit, on Flickr" href="http://www.flickr.com/photos/rdewit/4187912495/"><img src="http://farm3.staticflickr.com/2502/4187912495_c591ec6dd6.jpg" alt="Street in Stockholm" width="400" height="266" /></a><p class="wp-caption-text"><em>Street in Stockholm by Rob de Wit, flickr</em></p></div>
+<p>&nbsp;</p>
+<p>The texture and form of a simple stone wall can provide subtle beauty to the landscape, especially in winter.</p>
+<p>&nbsp;</p>
+<div style="width: 410px" class="wp-caption aligncenter"><a title="Stone wall near Kiruna Church by abaransk, on Flickr" href="http://www.flickr.com/photos/abaransk/3745026339/"><img src="http://farm4.staticflickr.com/3529/3745026339_9dfbddd963.jpg" alt="Stone wall near Kiruna Church" width="400" height="266" /></a><p class="wp-caption-text"><em>Stone wall near Kiruna Church by Andriy Baranskyy, flickr</em></p></div>
+<p>&nbsp;</p>
+<p>More findings to come&#8230;.</p>
+	
+						
+			
+	</div>
+			
+			
+				
+	
+					<br clear="all" />		
+			
+			
+									<p class="post-metadata">
+					Comments Closed | Trackbacks Closed
+					
+				</p>		
+			
+				
+<div class="divider"><!-- not a uniter! --></div>
+
+<div id="commentsList" >
+
+<h3 id="comments">3 Comments</h3>
+
+
+<ul id="commentlist">
+
+	<li id="comment-24546"><p>I hadn&#8217;t considered the role of vibrant color in snowy climes (seems to me it&#8217;s underutilized in Minnesota). Ironic that these pictures remind me of nowhere so much as the Caribbean. What&#8217;s the cultural impulse behind a colorful built environment in the tropics, I wonder?</p>
+	<p class="postMeta">Comment by <a href='http://abstract.nassassin.com' rel='external nofollow' class='url'>Jake</a> on November 8, 2012 @ <a href="#comment-24546">November 8, 2012</a> </p>
+	</li>
+
+	<li id="comment-24562"><p>Like Jake, the thought that one could (and they do)use color to just plain put something there to see in winter is rather thought provoking. My thought was as his, we see these colorful images of Cuba and never quite think about them near the Arctic Circle. Heck, maybe its even a safety practice. Park your car a block away in a blinding snow storm&#8230; Just know you have to head for the red building you can barely see.</p>
+	<p class="postMeta">Comment by Perry on November 8, 2012 @ <a href="#comment-24562">November 8, 2012</a> </p>
+	</li>
+
+	<li id="comment-24564"><p>Yeah, we don&#8217;t think much about how color can be used in the landscape, especially in winter, and I wonder if it has to do with the tendency of those of us in the upper Midwest to deny the fact we have winter four to five months out of the year. I&#8217;ve also seen plain white houses in the winter landscape look very lovely (in Jackson Meadow near Marine-on-St.-Croix, MN, for example) but I think that has to do as much with the repetition of form and color, as well as the pureness of the white &#8211; doesn&#8217;t work quite as well with off-white, which just looks yellow in the snow (such as my house). Thanks for the comments!</p>
+	<p class="postMeta">Comment by Adrienne on November 8, 2012 @ <a href="#comment-24564">November 8, 2012</a> </p>
+	</li>
+
+
+</ul>
+
+
+</div>
+
+
+<div id="commentsForm" >
+
+
+		<p>Sorry, the comment form is closed at this time.</p>
+	
+
+	<p><a href="https://cafeapolis.com/2012/winter-cities-part-i/feed/">Comments RSS</a> 
+		</p>
+
+</div>
+
+				
+				
+	<br clear="all" />
+</div>
+				
+		
+		
+		<div class="copyHolder">
+		<p class="copy">
+		 &copy; Copyright 2006 Adrienne Bockheim. 
+		</p>
+		</div>
+	</div>
+	
+	
+	
+	
+<script type='text/javascript' src='http://cafeapolis.com/wp-includes/js/wp-embed.min.js?ver=5.0.11'></script>
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.266 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2020-12-12 10:42:16 -->
+
+<!-- super cache -->

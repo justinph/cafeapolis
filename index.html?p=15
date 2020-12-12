@@ -1,0 +1,369 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>  Spyhouse Coffeehouse - Cafeapolis</title>
+	<meta name="generator" content="BBEdit 8.5" />
+	<meta name="generator" content="WordPress 5.0.11" />
+	<meta name="keywords" content="coffee minneapolis coffeeshops community twin cities" />
+	<meta name="description" content="Coffee and community in Minneapolis." />
+	<meta name="verify-v1" content="V0OxyuL2TgENqkxEq4qXOjoE/UwIDVgxtRJkPScgMi4=" />
+	<style type="text/css" title="text/css">
+		@import url( https://cafeapolis.com/wp-content/themes/cafeapolis/style.css );
+		@import url( https://cafeapolis.com/wp-content/themes/cafeapolis/shadow.css );
+		
+	</style>
+	
+	<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		_uacct = "UA-611142-2";
+		urchinTracker();
+	</script>
+	
+	
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="https://cafeapolis.com/feed/" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="https://cafeapolis.com/feed/rss/" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="https://cafeapolis.com/feed/atom/" />
+		<link rel="alternate" type="application/atom+xml" title="Comments RSS 2.0" href="https://cafeapolis.com/comments/feed/" />
+	
+	<link rel="pingback" href="https://cafeapolis.com/xmlrpc.php" />
+    	<link rel='archives' title='December 2016' href='https://cafeapolis.com/2016/12/' />
+	<link rel='archives' title='August 2016' href='https://cafeapolis.com/2016/08/' />
+	<link rel='archives' title='August 2013' href='https://cafeapolis.com/2013/08/' />
+	<link rel='archives' title='May 2013' href='https://cafeapolis.com/2013/05/' />
+	<link rel='archives' title='January 2013' href='https://cafeapolis.com/2013/01/' />
+	<link rel='archives' title='December 2012' href='https://cafeapolis.com/2012/12/' />
+	<link rel='archives' title='November 2012' href='https://cafeapolis.com/2012/11/' />
+	<link rel='archives' title='June 2011' href='https://cafeapolis.com/2011/06/' />
+	<link rel='archives' title='January 2009' href='https://cafeapolis.com/2009/01/' />
+	<link rel='archives' title='August 2008' href='https://cafeapolis.com/2008/08/' />
+	<link rel='archives' title='May 2008' href='https://cafeapolis.com/2008/05/' />
+	<link rel='archives' title='February 2008' href='https://cafeapolis.com/2008/02/' />
+	<link rel='archives' title='January 2008' href='https://cafeapolis.com/2008/01/' />
+	<link rel='archives' title='September 2007' href='https://cafeapolis.com/2007/09/' />
+	<link rel='archives' title='August 2007' href='https://cafeapolis.com/2007/08/' />
+	<link rel='archives' title='June 2007' href='https://cafeapolis.com/2007/06/' />
+	<link rel='archives' title='May 2007' href='https://cafeapolis.com/2007/05/' />
+	<link rel='archives' title='April 2007' href='https://cafeapolis.com/2007/04/' />
+	<link rel='archives' title='March 2007' href='https://cafeapolis.com/2007/03/' />
+	<link rel='archives' title='February 2007' href='https://cafeapolis.com/2007/02/' />
+	<link rel='archives' title='January 2007' href='https://cafeapolis.com/2007/01/' />
+	<link rel='archives' title='December 2006' href='https://cafeapolis.com/2006/12/' />
+	<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Cafeapolis &raquo; Spyhouse Coffeehouse Comments Feed" href="https://cafeapolis.com/2007/spyhouse-coffeehouse/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cafeapolis.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.0.11"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css'  href='http://cafeapolis.com/wp-includes/css/dist/block-library/style.min.css?ver=5.0.11' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://cafeapolis.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://cafeapolis.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://cafeapolis.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Blue Moon Coffee Cafe' href='https://cafeapolis.com/2006/blue-moon-coffee-cafe/' />
+<link rel='next' title='Bob&#8217;s Java Hut' href='https://cafeapolis.com/2007/bobs-java-hut/' />
+<meta name="generator" content="WordPress 5.0.11" />
+<link rel="canonical" href="https://cafeapolis.com/2007/spyhouse-coffeehouse/" />
+<link rel='shortlink' href='https://cafeapolis.com/?p=15' />
+<link rel="alternate" type="application/json+oembed" href="https://cafeapolis.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcafeapolis.com%2F2007%2Fspyhouse-coffeehouse%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://cafeapolis.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcafeapolis.com%2F2007%2Fspyhouse-coffeehouse%2F&#038;format=xml" />
+	
+
+</head>
+<body>
+
+	<div id="topHeader">
+		<h1 style="display: none;">Cafeaplis &mdash; coffe + community @ minneapolis</h1>
+		<div id="topNavCont">
+		<div id="topNavLeft" class="topNav">
+			<a href="/">home</a>
+			<a href="/about/">about</a>
+			<!-- <a href="/archives/">archives</a> -->
+			<a href="/contact/">contact</a>
+		</div>
+		<div id="topNavRight" class="topNav">
+			<a href="/wp-admin/">log in</a>
+		</div>
+		</div>
+	</div>
+	
+	
+	<div id="blogContent">
+
+
+
+<div class="blogPost" id="post-15">
+
+	<!-- <h2>January 17, 2007</h2> -->
+		
+	<h1><a href="https://cafeapolis.com/2007/spyhouse-coffeehouse/" rel="bookmark">Spyhouse Coffeehouse</a></h1>
+	
+	<div class="fullPostText">
+			<p class="postMeta">Posted by Adrienne on January 17, 2007		
+		</p>
+		
+					<div class="shadow"><a href="https://cafeapolis.com/2007/spyhouse-coffeehouse/" rel="bookmark"><img src="http://cafeapolis.com/wp-content/2007/01/sphouse_outside.jpg" alt="Spyhouse Coffeehouse"/></a><div class="topleft"></div><div class="topright"></div><div class="bottomleft"></div><div class="bottomright"></div></div>
+			
+	
+				
+			<p>If the <a href="http://cafeapolis.com/archives/6">Blue Moon Coffee Cafe</a> was the coffeehouse to reinforce my good decision to move to the Twin Cities, then Spyhouse was the coffeeshop that inspired me to move up here in the first place.  I was vaguely familiar with only a couple parts of the cities &#8211; hard-edged midway St. Paul and cushy residential deep south Minneapolis.  As much as I knew I wanted to move here, I was having trouble getting excited about such a city &#8211; where were the Neighborhoods? Where were the hip boutiques, the ethnic restaurants? Where was the bohemian street life I was used to in Madison? I drove around looking for apartments and doubting that this was the right place for me &#8211; until a light illuminated on a Nicollet Street corner in the form of a neon sign that read <strong>COFFEE</strong>. Stepping inside, I knew I was saved.</p>
+<p><span id="more-15"></span></p>
+<p><br clear="all" /></p>
+<h3>Whittier is prettier</h3>
+<div class="shadow"><a href="http://flickr.com/photos/cafeapolis/361315411/in/set-72157594486119043/"><img id="image20" src="http://cafeapolis.com/wp-content/2007/01/whittier.jpg" alt="Whittier Is Prettier" /></a></p>
+<div class="topleft"></div>
+<div class="topright"></div>
+<div class="bottomleft"></div>
+<div class="bottomright"></div>
+</div>
+<p>Spyhouse is located in center of the Whittier neighborhood, which starts at uptown and continues north to butt up against the Loring park area. It is the oldest neighborhood in the city, with impressive old mansions and restored 19th century brick apartment buildings. Nicollet, known as <a href="http://www.eatstreetminneapolis.com/">Eat Street</a>, is lined with small family-owned ethnic restaurants &#8211; Vietnamese, German, Mexican, American, Asian, Mediterranean, and Middle Eastern &#8211; along with a several late-night hangouts and bars.  Neighbors of many colors and backgrounds smoke on the street corner, chat at the tables on the sidewalks (weather permitting), and catch the bus to downtown. </p>
+<p>Other neighborhood keystones are the <a href="http://artsmia.org">Minneapolis Institute of Arts</a>, a large prestigious museum that houses artifacts and works from around the world, <a href="http://mcad.edu">Minneapolis College of Art and Design</a>, a small and often-overlooked art school of notable quality, and the <a href="http://wedge.coop">Wedge Co-op</a>, which draws the large natural food crowd that lives in the area.  It is an area known for food, art, diversity, night life and a cozy old main street feeling. People actually walk around from place to place, and seem happy to do so.</p>
+<h3>Atmosphere/Crowd</h3>
+<div class="shadow"><a href="http://flickr.com/photos/cafeapolis/361317273/in/set-72157594486119043/"><img id="image17" src="http://cafeapolis.com/wp-content/2007/01/atmosphere.jpg" alt="Atmosphere" /></a></p>
+<div class="topleft"></div>
+<div class="topright"></div>
+<div class="bottomleft"></div>
+<div class="bottomright"></div>
+</div>
+<p>The Spyhouse Coffeehouse is the meeting place of local artists and students, but mostly art students.  When you open the door and step inside you enter another world, and yet the large windows still connect you completely to the outside street scene.  In the warmer months large doors that double as windows in the winter open up to the sidewalk. Here the cool kids smoke and sip and chat. And while most of the crowd is under thirty, this doesn&#8221;t mean the general public is excluded. A few business-types tap on their laptops here and there. The Spyhouse is always busy, from the early morning on-the-way-to-work crowd, to the lunch rush, to the late-night study group.  If you are looking for any kind of ongoing art or music happening, the front counter near the window is stacked neatly with handouts and business cards. One can even get a fortune read while pouring milk in your to-go mug.</p>
+<p>Some coffee shops are designed like living rooms with couches and quiet music for relaxing, studying and talking with friends. The Spyhouse is more of a scene.  Yes, there are areas for lounging and tables for studying, but the music is loud-ish and the vibe is more up-beat.  It is a livingroom-type area, but not the kind found in the average citizen&#8221;s home.  It exudes ironic kitschy taste with black velvet paintings and 1950&#8221;s housewife-style furniture.  The high ceilings, bold paint, and exposed ducts make it feel more like an artist&#8221;s loft or second-hand store.  And while some might say this would make it feel to open and drafty, the scattered 60&#8221;s lamps and giant windows still allow it to be homey and comfortable. A long wide bar makes up one side of the center counter area where, dressed in their hipster best, the surly baristas (mostly art students themselves) sashay from one end to the other to grind the espresso. The music is fun and ambient most of the time but one must be able to tune it out if hardcore concentration is needed.</p>
+<h3>The Goods</h3>
+<div class="shadow"><a href="http://flickr.com/photos/cafeapolis/361318556/in/set-72157594486119043/"><img id="image19" src="http://cafeapolis.com/wp-content/2007/01/thegoods.jpg" alt="Where you get the goods" /></a></p>
+<div class="topleft"></div>
+<div class="topright"></div>
+<div class="bottomleft"></div>
+<div class="bottomright"></div>
+</div>
+<p>Though I would not rate their coffee first on the list, it does the trick if you need the caffeine.  The mixed coffee drinks are delicious, with a whole blackboard full of different concoctions. They tend to be a bit expensive but definitely give one a try if you want a special treat (hint: try the Spychaser if you <em>really</em> need to stay awake). Many varieties of excellent tea are available. There are also sandwiches but, in my opinion, they are both expensive and unimpressive. The bread lacks conviction though the fillings (veggie, three-cheese, artichoke and the like) are generally admirable.<br />
+<br clear="all" /></p>
+<h3>Spyhouse is for Lovers</h3>
+<div class="shadow"><a href="http://flickr.com/photos/cafeapolis/361320502/in/set-72157594486119043/"><img id="image18" src="http://cafeapolis.com/wp-content/2007/01/forlovers.jpg" alt="The Spyhouse is for Lovers (?)" /></a></p>
+<div class="topleft"></div>
+<div class="topright"></div>
+<div class="bottomleft"></div>
+<div class="bottomright"></div>
+</div>
+<p>Inspired by the Star Tribune&#8221;s recent <a href="http://www.startribune.com/218/story/933072.html">article</a>, I must say that the Spyhouse is a good place to meet up with your new myspace interest. The mellow coolness will put your potential love at ease, thus providing an opportunity to really sit and discuss your shared affinity for <a href="http://en.wikipedia.org/wiki/Colin_Meloy">Colin Meloy&#8221;s</a> heart-breaking lyrics.<br />
+<br clear="all" /></p>
+	
+						
+			
+	</div>
+			
+			
+				<a href="http://www.flickr.com/photos/cafeapolis/sets/72157594486119043/" title="More Spyhouse Coffeehouse photos on flickr"/><img src="http://cafeapolis.com/wp-content/themes/cafeapolis/images/more_photos.png" alt="More Photos on Flickr" style="margin: 10px 67px 20px;"/></a><br />
+	
+		
+	
+							
+				
+<table class="reviewMeta" cellspacing="0" cellpadding="0" style="width: 290px; float: left;">
+		<th colspan="2">
+			Review Quick Info
+		</th>
+
+
+		<tr>
+		<td class="rmCol1">Cup of Coffee Cost</td>
+		<td>$1.85 (16 oz)</td>
+	</tr>
+		
+	
+	
+		<tr>
+		<td class="rmCol1">Type of Food</td>
+		<td>Sandwiches, baked goods, snacks</td>
+	</tr>
+		
+	
+	
+		<tr>
+		<td class="rmCol1">Decor</td>
+		<td>Hipster vintage</td>
+	</tr>
+		
+	
+	
+			<tr>
+		<td class="rmCol1">Crowd</td>
+		<td>Artists/students</td>
+	</tr>
+		
+	
+	
+			<tr>
+		<td class="rmCol1">Barista Attitude</td>
+		<td>Saucy, some pretentious</td>
+	</tr>
+		
+	
+	
+			<tr>
+		<td class="rmCol1">Hours</td>
+		<td>7am - 12am Weekdays, 8am - 12am Weekends</td>
+	</tr>
+		
+	
+	
+			<tr>
+		<td class="rmCol1">Wireless Speed</td>
+		<td>Slow</td>
+	</tr>
+		
+	
+				<tr>
+		<td class="rmCol1">Power Outlets</td>
+		<td>Some, but not enough</td>
+	</tr>
+		
+	</table>		
+			
+	
+			
+	
+	<table class="reviewMeta" cellspacing="0" cellpadding="0" style="width: 290px; float: right;">
+		<th colspan="2">
+			Location Info
+		</th>
+		
+						<tr>
+		<td class="rmCol1">Address</td>
+		<td>2451 Nicollet Ave S, Minneapolis, MN 55404<br />
+			<a href="http://www.google.com/maps?q=2451+Nicollet+Ave+S,+Minneapolis,+MN+55404&sa=X&oi=map&ct=title">Google Map Link</a></td>
+
+		
+		</td>
+	</tr>
+		
+		
+
+				<tr>
+		<td class="rmCol1">Phone</td>
+		<td>(612) 871-3177</td>
+	</tr>
+		
+	
+	
+				
+
+	</table>	
+		<br clear="all" />		
+			
+			
+									<p class="post-metadata">
+					Comments Closed | Trackbacks Closed
+					
+				</p>		
+			
+				
+<div class="divider"><!-- not a uniter! --></div>
+
+<div id="commentsList" >
+
+<h3 id="comments">9 Comments</h3>
+
+
+<ul id="commentlist">
+
+	<li id="comment-6"><p>do you actually enjoy the service there??  everytime i&#8217;m in that place the baristas seem snooty and stuck up.  i can understand everyonce in a while being in a bad mood and not prone to idle chit chat.  but everytime??  i have never once seen anyone there serve my coffee with a smile nor make anymore eye-contact then they possibly need to while taking my order and my money.</p>
+<p>reasons like those have made me not want to go there anymore.  i believe it is over-rated.  now i just head down the street to the bad waitress where you can get the exact same cup of coffee, but the service is much more friendly and the people even smile without you having to make a joke.</p>
+	<p class="postMeta">Comment by a former barista on January 18, 2007 @ <a href="#comment-6">January 18, 2007</a> </p>
+	</li>
+
+	<li id="comment-7"><p>I know of one very nice barista there, but I have to say that 9 times out of 10 you get the feeling you&#8217;re being a bit of a bother to them. Hence &#8220;surly&#8221;, &#8220;saucy&#8221;, and &#8220;pretentious&#8221;. Many people I&#8217;ve talked to say the same thing. But it&#8217;s still a fun place to hang out on occasion, with a good atmosphere &#8211; I can ignore cheeky employees. Bad Waitress is a good alternative. I&#8217;ll be reviewing them in the future. Thanks for the comment.</p>
+	<p class="postMeta">Comment by Adrienne on January 18, 2007 @ <a href="#comment-7">January 18, 2007</a> </p>
+	</li>
+
+	<li id="comment-13"><p>Like the music, like the scene, but I agree that the baristas seem unhappy with their jobs. I also think their espresso is BAD and the baked goods usually stale and unappetizing.</p>
+	<p class="postMeta">Comment by Tib on February 21, 2007 @ <a href="#comment-13">February 21, 2007</a> </p>
+	</li>
+
+	<li id="comment-21"><p>I have been visiting the spyhouse since the day it opened. The coffee has gone steadily down hill. I got a coffee there for the first time in a while the other day. It was one of the worst I&#8217;ve had in quite some time. Which means the corpo coffee we have at my office is actually better.</p>
+<p>I qualifies as coffee, sure, but honestly it can&#8217;t compare to a good cup of coffee that I can get at Bob&#8217;s, CRC, or, dare I say, Starbucks.</p>
+<p>And the service is kind of crappy, too. Strangely enough, the Bad Waitress, under the same management/ownership right down the street seems to have consistently better service and usually better coffee. I&#8217;ll go there before Spyhouse any day of the week.</p>
+	<p class="postMeta">Comment by <a href='http://www.fiddlyio.com/' rel='external nofollow' class='url'>Justin</a> on March 10, 2007 @ <a href="#comment-21">March 10, 2007</a> </p>
+	</li>
+
+	<li id="comment-1967"><p>I have to stick up for Spyhouse and say while its true sometimes the baristas are not the UBER HYPER HELLO WELCOME TO CARIBOU types, they certainly treat their regular customers (muah) extremely well and it&#8217;s after a while you&#8217;ve proven your commitment to their coffeeshop that they&#8217;re great people. This might sound at odds with how the market should work (they earn *your* business right?) but consider Spyhouse has a monopoly on the cool coffeeshop in this area of 8,000+ people under the age of 30. So you making yourself feel cool once a month doesn&#8217;t exactly mean their long-term survival in the end. </p>
+<p>And I think their baristas are very happy considering for about two years now I&#8217;ve seen the same people 9-5pm. </p>
+<p>But dear Christian, the espresso and coffee flavor! It needs a tweak.</p>
+	<p class="postMeta">Comment by <a href='http://nicolletdesign.com' rel='external nofollow' class='url'>Eric James</a> on January 28, 2008 @ <a href="#comment-1967">January 28, 2008</a> </p>
+	</li>
+
+	<li id="comment-6093"><p>re: eric james &#8211;</p>
+<p>although it is important to treat regular customers with respect you must also note that people will not come back if they are not treated nicely the first time (in which case they would not be regulars&#8230;obviously). i personally had a wonderful experience my first time in the new hennepin location with a barista who really seemed to enjoy her job. that makes me really want to go back to the coffee shop again. so get off your high horse and stop being that annoying regular who glares at people he doesnt recognize when they walk through the door. you are the type of self-righteous individual which makes me think twice about going into independent coffee shops. i am going to go out on a limb and say that everyone, no matter who you are, enjoys a nice smile and a greeting when they walk in to an establishment&#8230;but thats just me. sorry, i had to get that off my chest.</p>
+	<p class="postMeta">Comment by Scott A. on January 11, 2009 @ <a href="#comment-6093">January 11, 2009</a> </p>
+	</li>
+
+	<li id="comment-10604"><p>JyrJ8Y comment5 ,</p>
+	<p class="postMeta">Comment by <a href='http://cavwaxqb.com/' rel='external nofollow' class='url'>Xirilikl</a> on May 8, 2009 @ <a href="#comment-10604">May 8, 2009</a> </p>
+	</li>
+
+	<li id="comment-10656"><p>I am only 11, but love the place.  The decor is relaxing. I have one thing to say for the &#8220;Former Barista&#8221; I am very good friends with all the Baristas<br />
+including the ones at the new Spyhouse and the Bad Waitress. I think if you are friendly to them they will return the favor. If you get to know them, they are great people. (P.S. if you don&#8217;t like them go to the bad waitress and meet Brooke, it doesn&#8217;t get much friendlier.)<br />
+And Adrienne, are you the former employee? If you are in the mood for chocolate or cream, try the chocolate Eclair&#8217;s they are DELISH. Plus their chai is amazing. Hot of Iced. Decaf or not.<br />
+I never get the feeling I am bothering them, or that anyone else is either. THEY ARE NOT &#8220;CHEEKY&#8221;.  I absolutely recommend this place<br />
+to everyone. In fact, I met my best friend there.</p>
+	<p class="postMeta">Comment by Emma on May 9, 2009 @ <a href="#comment-10656">May 9, 2009</a> </p>
+	</li>
+
+	<li id="comment-10681"><p>Thanks for your comments, Emma! Even though I said the baristas were &#8220;cheeky&#8221;, I still like the Spyhouse. In fact, Justin (the man I am going to marry in two weeks) and I met at Spyhouse just over three years ago! It is a good place to meet special people, isn&#8217;t it. 😉</p>
+	<p class="postMeta">Comment by Adrienne on May 10, 2009 @ <a href="#comment-10681">May 10, 2009</a> </p>
+	</li>
+
+
+</ul>
+
+
+</div>
+
+
+<div id="commentsForm" >
+
+
+		<p>Sorry, the comment form is closed at this time.</p>
+	
+
+	<p><a href="https://cafeapolis.com/2007/spyhouse-coffeehouse/feed/">Comments RSS</a> 
+		</p>
+
+</div>
+
+				
+				
+	<br clear="all" />
+</div>
+				
+		
+		
+		<div class="copyHolder">
+		<p class="copy">
+		 &copy; Copyright 2006 Adrienne Bockheim. 
+		</p>
+		</div>
+	</div>
+	
+	
+	
+	
+<script type='text/javascript' src='http://cafeapolis.com/wp-includes/js/wp-embed.min.js?ver=5.0.11'></script>
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.271 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2020-12-12 10:42:32 -->
+
+<!-- super cache -->
